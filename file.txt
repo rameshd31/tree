@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Test branch
-=======
 master changes1
->>>>>>> master
